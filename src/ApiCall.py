@@ -17,3 +17,6 @@ first_destination_location = (r["routes"][0]["destination"])
 second_destination_location = (r["routes"][1]["destination"])
 
 # command
+
+
+# mk kadir
