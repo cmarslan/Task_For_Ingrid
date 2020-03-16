@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29770273-762d-4519-87b5-662bcad1b1dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ApiCall.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ApiCall.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -164,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576228497893</updated>
       <workItem from="1576228504733" duration="14204000" />
-      <workItem from="1584372473383" duration="263000" />
+      <workItem from="1584372473383" duration="555000" />
     </task>
     <servers />
   </component>
