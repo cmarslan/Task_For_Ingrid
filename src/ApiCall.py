@@ -20,3 +20,5 @@ second_destination_location = (r["routes"][1]["destination"])
 
 
 # mk kadir
+
+# pwr
